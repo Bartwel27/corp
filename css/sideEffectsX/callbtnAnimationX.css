@@ -1,0 +1,9 @@
+@keyframes pop{
+        0%{
+         position:absolute;
+         left:100%;
+        }100%{        
+         position:absolute;
+         left:0%;       
+        }
+       }
