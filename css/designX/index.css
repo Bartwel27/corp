@@ -21,7 +21,7 @@ body{
         width:100%;
         max-width:600px;
         margin:0 auto;
-        border:01px solid silver;
+        border-bottom:01px solid silver;
         background:white;
         position:sticky;
         top:0;
