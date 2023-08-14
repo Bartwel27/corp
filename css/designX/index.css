@@ -23,8 +23,8 @@ body{
         margin:0 auto;
         box-shadow:0px 5px 5px #F1F1F2;
         background:white;
-        position:static;
-        top:;
+        position:sticky;
+        top:0;
        }
 
 
@@ -78,7 +78,7 @@ body{
             height:30px;
             padding:0;
             margin:0;
-            margin-top:25px;
+            margin-top:20px;
             margin-right:5px;
             }         
             /*Overide*/
@@ -93,6 +93,18 @@ body{
             
             }#navBtncont #cancelBtn{
             display:none;
+            }#navBtncont #contactbtn{
+            height:30px;
+            width:60px;
+            margin-top:5px;
+            margin-right:10px;
+            margin-left:10px;
+            border-radius:5px;
+            border:0px;
+            box-shadow:0px 0px 5px grey;
+            background:none;
+            outline:none;
+            curser:pointer;
             }
        
             
@@ -101,7 +113,7 @@ body{
                 width:100%;
                 max-width:600px;
                 margin:0 auto;
-                position:relative;
+              
                 }
 
 
@@ -209,7 +221,7 @@ body{
                         width:160px;
                         height:100px;
                         margin-left:10px;
-                        position:relative;
+                 
                         border:0px solid grey;
                        }#discript #disc-rate p{
                         padding:0;
@@ -219,7 +231,7 @@ body{
                         font-size:px;
                         font-weight:lighter;
                        }#discript #disc-rate button{
-                        position:absolute;
+                       
                         bottom:0;       
                         background:none;
                         border:0px;
@@ -325,48 +337,7 @@ body{
 
 
 
-                       #query{
-                        width:100%;
-                        max-width:330px;
-                        margin:0 auto;
-                        margin-bottom:50px;
-                        margin-top:50px;
-                        position:relative;
-                        display:n;
-                       }#query img{
-                        width:50%;
-                        display:flex;
-                        margin:auto;
-                       }#query h1{
-                        text-align:center;
-                        margin:0;
-                        padding:0;
-                        font-weight:lighter;
-                       }#query p{
-                        width:100%;
-                        max-width:330px;
-                        margin:0 auto;
-                        text-align:center;
-                        font-size:px;
-                        font-weight:lighter;
-                       }#query p a{
-                        color:royalblue;
-                        box-shadow:5px 5px 5px grey;
-                        border:0.1px solid royalblue;
-                        font-size:px;
-                        padding:0.5px;
-                        padding-right:4px;
-                        border-radius:4px;
-                        width:;
-                       }#query button{
-                        position:absolute;
-                        top:0;
-                        right:0;
-                        border:1px dashed grey;
-                        font-size:10px;
-                        outline:none;
-                       }
-
+                       
 
 
 
@@ -376,7 +347,7 @@ body{
                         max-width:350px;
                         margin:0 auto;
                         margin-bottom:10px;
-                        display:no;
+                        display:none;
                         }#preView h2{
                          width:150px;
                          margin:0 auto;
