@@ -3,3 +3,8 @@ Beecorp Version 3 is a powerful and intuitive advertising platform that helps yo
 
 ## owners
 - [bartwel mwanza](https://github.com/bartwel27)
+
+### versions
+My first versions of beecorp
+- (v0.1)[https://bee02.github.io/v0.1]
+> (documentation)[https://github.com/v0.1]
